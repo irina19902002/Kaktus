@@ -1,9 +1,4 @@
-import java.time.Month;
 import java.util.*;
-import java.util.random.RandomGenerator;
-import java.util.stream.IntStream;
-
-import static java.util.Collections.*;
 
 public class Main extends Detector {
     public static void main(String[] args) {
@@ -43,7 +38,3 @@ public class Main extends Detector {
 
     }
 }
-
-
-
-
