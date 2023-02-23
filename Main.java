@@ -26,7 +26,7 @@ public class Main extends Detector {
             calendar.add(Calendar.DAY_OF_MONTH, 7);
             System.out.println(calendar.getTime());
         }
-        if (foundWinter == true) {
+        if (foundSummer == true) {
             while (diff < 2) {
                 calendarTek.add(Calendar.DAY_OF_MONTH, 1);
             }
