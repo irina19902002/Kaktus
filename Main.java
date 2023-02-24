@@ -2,7 +2,6 @@ import java.sql.Timestamp;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
-
 public class Main extends Detector {
     public static void main(String[] args) {
         System.out.println("Введите дату последнего полива в формате \"MMMM d, yyyy\" ");
@@ -41,7 +40,6 @@ public class Main extends Detector {
         }
         if (foundWinter) {
             dateWater = dateWater.plusMonths(1);
-            //calendar.add(Calendar.MONTH, 1);
             System.out.println("Полей кактус: " + dateWater.format(formatter));
         }
     }
