@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4f270ab7-f5c3-4a1d-9d4c-ab245777af72" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,12 +92,34 @@
       <option name="project" value="LOCAL" />
       <updated>1677156519981</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new format+ scanner">
+      <created>1677228136359</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677228136359</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new format+ scanner">
+      <created>1677228166474</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677228166474</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new format+ scanner">
+      <created>1677228288842</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677228288842</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+    <MESSAGE value="new format+ scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="new format+ scanner" />
   </component>
 </project>
